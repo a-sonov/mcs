@@ -1,0 +1,26 @@
+h1, h3 {
+    background-color: black;
+    color:azure
+}
+
+.page {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+.call-to-action:link,
+.call-to-action:visited {
+  font-style: italic;
+  background-color: #EEB75A;
+}
+
+.call-to-action:hover,
+.call-to-action:visited:hover {
+  background-color: #F5CF8E;
+}
+
+.call-to-action:active,
+.call-to-action:visited:active {
+  background-color: #EEB75A;
+}
